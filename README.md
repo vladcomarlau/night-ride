@@ -1,7 +1,6 @@
 ![logo](https://img.itch.zone/aW1nLzExOTY3ODE2LnBuZw==/original/U7SHRP.png)
 
-2D Driving Game designed and developed by [Vlad-Constantin Comarlau](https://twitter.com/vladcomarlau)
-
+2D Driving Game
 ## Description
 
 Drive at high speed through traffic and survive the dangers you'll encounter. Will you make it through the night?
